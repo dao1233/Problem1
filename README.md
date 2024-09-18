@@ -1,8 +1,11 @@
 # Matriculation number: 7221965
 # Development environment: 
 Java version 22.0.2
+
 Java(TM) SE Runtime Environment (build 22.0.2+9-70)
+
 Java HotSpot(TM) 64-Bit Server VM (build 22.0.2+9-70, mixed mode, sharing)
+
 Eclipse IDE for Java Developers with Version: 2024-06 (4.32.0)
 # Problem 1
 Contains 4 different problems
